@@ -14,3 +14,6 @@ This GitHub repository contains the code and final project report for the "Emplo
 
 ## Conclusion
 This project provides valuable insights into the factors contributing to high employee attrition at Marvelous Construction. By leveraging data analysis, the company can make informed decisions and implement targeted strategies to mitigate turnover, improve overall performance, and ensure the company's success.
+
+# IMPORTANT:
+- Read 200304N.pdf for the final report with the insights
